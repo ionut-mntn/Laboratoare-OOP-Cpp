@@ -1,0 +1,11 @@
+﻿  Controller.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_5\Controller.cpp(15,50): error C2572: 'Controller::Controller': redefinition of default argument: parameter 1
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_5\Controller.h(30): message : see declaration of 'Controller::Controller'
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_5\Controller.cpp(39,1): error C2143: syntax error: missing ';' before '}'
+  l5_4.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_5\l5_4.cpp(54,7): warning C4101: 's': unreferenced local variable
+  Repository.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_5\Repository.cpp(12,59): error C2572: 'Repository::Repository': redefinition of default argument: parameter 1
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_5\Repository.h(21): message : see declaration of 'Repository::Repository'
+  Generating Code...
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_5\l5_4.cpp(40): warning C4715: 'get_input': not all control paths return a value

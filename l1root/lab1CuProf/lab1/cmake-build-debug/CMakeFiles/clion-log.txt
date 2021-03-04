@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab1CuProf\lab1"
+CMake Error at test/CMakeLists.txt:2 (add_subdirectory):
+  The source directory
+
+    D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab1CuProf/lab1/test/lib
+
+  does not contain a CMakeLists.txt file.
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab1CuProf/lab1/cmake-build-debug/CMakeFiles/CMakeOutput.log".

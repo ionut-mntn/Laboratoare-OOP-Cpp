@@ -1,0 +1,5 @@
+﻿  Tests.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta2 - Curat\Tests.cpp(145,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta2 - Curat\Tests.cpp(150,68): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta2 - Curat\Tests.cpp(199,59): warning C4305: 'argument': truncation from 'double' to 'float'
+  lab4.vcxproj -> D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta2 - Curat\Debug\lab4.exe

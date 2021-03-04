@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab2/src/complex.cpp
+complex.h
+D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab2/src/complex.h
+
+D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab2/src/complex.h
+iostream
+-
+

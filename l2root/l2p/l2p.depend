@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1583671586 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2p\complex_test.cpp
+
+1584012353 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2p\complex.cpp
+	"complex.h"
+
+1584012050 d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2p\complex.h
+	<cmath>
+	<iostream>
+
+1584012385 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2p\app__coord.cpp
+	"complex.h"
+	<iostream>
+	<stdio.h>
+
+1583758507 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2p\complexcontainer.cpp
+	"ComplexContainer.h"
+
+1583749165 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2p\probe.cpp
+	<iostream>
+
+1583771357 d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2p\complexcontainer.h
+	"complex.h"
+

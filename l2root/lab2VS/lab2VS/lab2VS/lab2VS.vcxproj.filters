@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="test">
+      <UniqueIdentifier>{893858f2-c6c4-4a40-81c9-29b379bf5995}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lab2VS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\src\complex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\src\rational.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\rational_test.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\complex_test.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\src\gmock-all.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\src\gmock-cardinalities.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\src\gmock-internal-utils.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\src\gmock-matchers.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\src\gmock-spec-builders.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\src\gmock.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\src\gmock_main.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-actions_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-cardinalities_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-function-mocker_nc.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-function-mocker_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-generated-actions_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-generated-matchers_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-internal-utils_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-matchers_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-more-actions_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-nice-strict_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-port_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-pp-string_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-pp_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock-spec-builders_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_all_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_ex_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_leak_test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_link2_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_link_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_output_test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_stress_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample1.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample10_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample1_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample2.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample2_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample3_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample4.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample4_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample5_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample6_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample7_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample8_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample9_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-all.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-death-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-filepath.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-matchers.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-port.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-printers.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-test-part.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-typed-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest_main.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-break-on-failure-unittest_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-catch-exceptions-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-color-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-death-test-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-death-test_ex_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-env-var-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-filepath-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-filter-unittest_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-list-tests-unittest_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-listener-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-message-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-options-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-output-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-param-test-invalid-name1-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-param-test-invalid-name2-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-param-test-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-param-test2-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-port-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-printers-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-setuptestsuite-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-shuffle-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-test-part-test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-throw-on-failure-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-uninitialized-test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest-typed-test2_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest-typed-test_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest-unittest-api_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_all_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_assert_by_exception_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_environment_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_help_test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_list_output_unittest_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_main_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_no_test_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_pred_impl_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_premature_exit_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_prod_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_repeat_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_skip_in_environment_setup_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_skip_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_sole_header_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_stress_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_testbridge_test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_test_macro_stack_footprint_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_throw_on_failure_ex_test.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_unittest.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_xml_outfile1_test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_xml_outfile2_test_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest_xml_output_unittest_.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\lab2_ultim\test\lib\googletest\test\production.cc">
+      <Filter>test</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\lab2_ultim\src\Complex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\src\Rational.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-actions.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-cardinalities.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-function-mocker.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-generated-actions.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-matchers.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-more-actions.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-more-matchers.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-nice-strict.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock-spec-builders.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\gmock.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\internal\custom\gmock-generated-actions.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\internal\custom\gmock-matchers.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\internal\custom\gmock-port.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\internal\gmock-internal-utils.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\internal\gmock-port.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\include\gmock\internal\gmock-pp.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googlemock\test\gmock_link_test.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-death-test.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-matchers.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-message.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-param-test.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-printers.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-spi.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-test-part.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest-typed-test.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest_pred_impl.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\gtest_prod.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\custom\gtest-port.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\custom\gtest-printers.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\custom\gtest.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-death-test-internal.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-filepath.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-internal.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-param-util.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-port-arch.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-port.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-string.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\include\gtest\internal\gtest-type-util.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\samples\prime_tables.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample1.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample2.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample3-inl.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\samples\sample4.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\src\gtest-internal-inl.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\test\googletest-param-test-test.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\test\gtest-typed-test_test.h">
+      <Filter>test</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\lab2_ultim\test\lib\googletest\test\production.h">
+      <Filter>test</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\lab2_ultim\src\CMakeLists.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="..\..\..\lab2_ultim\test\CMakeLists.txt">
+      <Filter>test</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

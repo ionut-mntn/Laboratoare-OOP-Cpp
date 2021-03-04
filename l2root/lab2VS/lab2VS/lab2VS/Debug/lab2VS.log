@@ -1,0 +1,218 @@
+﻿  complex_test.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\complex_test.cpp(6,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gmock-all.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\src\gmock-all.cc(39,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock-cardinalities.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\src\gmock-cardinalities.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/gmock-cardinalities.h': No such file or directory
+  gmock-internal-utils.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\src\gmock-internal-utils.cc(37,10): fatal error C1083: Cannot open include file: 'gmock/internal/gmock-internal-utils.h': No such file or directory
+  gmock-matchers.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\src\gmock-matchers.cc(36,10): fatal error C1083: Cannot open include file: 'gmock/gmock-matchers.h': No such file or directory
+  gmock-spec-builders.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\src\gmock-spec-builders.cc(36,10): fatal error C1083: Cannot open include file: 'gmock/gmock-spec-builders.h': No such file or directory
+  gmock.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\src\gmock.cc(31,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock_main.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\src\gmock_main.cc(32,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock-actions_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-actions_test.cc(44,10): fatal error C1083: Cannot open include file: 'gmock/gmock-actions.h': No such file or directory
+  gmock-cardinalities_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-cardinalities_test.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock-function-mocker_nc.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-function-mocker_nc.cc(1,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock-function-mocker_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-function-mocker_test.cc(34,10): fatal error C1083: Cannot open include file: 'gmock/gmock-function-mocker.h': No such file or directory
+  gmock-generated-actions_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-generated-actions_test.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/gmock-generated-actions.h': No such file or directory
+  gmock-generated-matchers_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-generated-matchers_test.cc(42,10): fatal error C1083: Cannot open include file: 'gmock/gmock-matchers.h': No such file or directory
+  gmock-internal-utils_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-internal-utils_test.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/internal/gmock-internal-utils.h': No such file or directory
+  gmock-matchers_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-matchers_test.cc(43,10): fatal error C1083: Cannot open include file: 'gmock/gmock-matchers.h': No such file or directory
+  gmock-more-actions_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-more-actions_test.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/gmock-more-actions.h': No such file or directory
+  gmock-nice-strict_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-nice-strict_test.cc(30,10): fatal error C1083: Cannot open include file: 'gmock/gmock-nice-strict.h': No such file or directory
+  gmock-port_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-port_test.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/internal/gmock-port.h': No such file or directory
+  gmock-pp-string_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-pp-string_test.cc(33,10): fatal error C1083: Cannot open include file: 'gmock/internal/gmock-pp.h': No such file or directory
+  Generating Code...
+  Compiling...
+  gmock-pp_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-pp_test.cc(1,10): fatal error C1083: Cannot open include file: 'gmock/internal/gmock-pp.h': No such file or directory
+  gmock-spec-builders_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock-spec-builders_test.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/gmock-spec-builders.h': No such file or directory
+  gmock_all_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_all_test.cc(38,10): fatal error C1083: Cannot open include file: 'test/gmock-actions_test.cc': No such file or directory
+  gmock_ex_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_ex_test.cc(33,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock_leak_test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_leak_test_.cc(36,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock_link2_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_link2_test.cc(39,10): fatal error C1083: Cannot open include file: 'test/gmock_link_test.h': No such file or directory
+  gmock_link_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_link_test.cc(39,10): fatal error C1083: Cannot open include file: 'test/gmock_link_test.h': No such file or directory
+  gmock_output_test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_output_test_.cc(34,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock_stress_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_stress_test.cc(34,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  gmock_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googlemock\test\gmock_test.cc(35,10): fatal error C1083: Cannot open include file: 'gmock/gmock.h': No such file or directory
+  sample1.cc
+  sample10_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample10_unittest.cc(36,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample1_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample1_unittest.cc(45,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample2.cc
+  sample2_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample2_unittest.cc(41,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample3_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample3_unittest.cc(64,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample4.cc
+  sample4_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample4_unittest.cc(32,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample5_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample5_unittest.cc(48,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample6_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample6_unittest.cc(37,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  Generating Code...
+  Compiling...
+  sample7_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample7_unittest.cc(40,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample8_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample8_unittest.cc(38,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  sample9_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\samples\sample9_unittest.cc(36,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest-all.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-all.cc(38,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest-death-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-death-test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest-death-test.h': No such file or directory
+  gtest-filepath.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-filepath.cc(30,10): fatal error C1083: Cannot open include file: 'gtest/internal/gtest-filepath.h': No such file or directory
+  gtest-matchers.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-matchers.cc(35,10): fatal error C1083: Cannot open include file: 'gtest/internal/gtest-internal.h': No such file or directory
+  gtest-port.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-port.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/internal/gtest-port.h': No such file or directory
+  gtest-printers.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-printers.cc(44,10): fatal error C1083: Cannot open include file: 'gtest/gtest-printers.h': No such file or directory
+  gtest-test-part.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-test-part.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest-test-part.h': No such file or directory
+  gtest-typed-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest-typed-test.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/gtest-typed-test.h': No such file or directory
+  gtest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_main.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\src\gtest_main.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-break-on-failure-unittest_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-break-on-failure-unittest_.cc(41,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-catch-exceptions-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-catch-exceptions-test_.cc(38,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-color-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-color-test_.cc(37,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-death-test-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-death-test-test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest-death-test.h': No such file or directory
+  googletest-death-test_ex_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-death-test_ex_test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest-death-test.h': No such file or directory
+  googletest-env-var-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-env-var-test_.cc(36,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-filepath-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-filepath-test.cc(38,10): fatal error C1083: Cannot open include file: 'gtest/internal/gtest-filepath.h': No such file or directory
+  Generating Code...
+  Compiling...
+  googletest-filter-unittest_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-filter-unittest_.cc(40,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-list-tests-unittest_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-list-tests-unittest_.cc(40,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-listener-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-listener-test.cc(37,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-message-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-message-test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest-message.h': No such file or directory
+  googletest-options-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-options-test.cc(39,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-output-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-output-test_.cc(36,10): fatal error C1083: Cannot open include file: 'gtest/gtest-spi.h': No such file or directory
+  googletest-param-test-invalid-name1-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-param-test-invalid-name1-test_.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-param-test-invalid-name2-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-param-test-invalid-name2-test_.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-param-test-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-param-test-test.cc(35,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-param-test2-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-param-test2-test.cc(34,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-port-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-port-test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/internal/gtest-port.h': No such file or directory
+  googletest-printers-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-printers-test.cc(52,10): fatal error C1083: Cannot open include file: 'gtest/gtest-printers.h': No such file or directory
+  googletest-setuptestsuite-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-setuptestsuite-test_.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-shuffle-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-shuffle-test_.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-test-part-test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-test-part-test.cc(30,10): fatal error C1083: Cannot open include file: 'gtest/gtest-test-part.h': No such file or directory
+  googletest-throw-on-failure-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-throw-on-failure-test_.cc(37,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  googletest-uninitialized-test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\googletest-uninitialized-test_.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest-typed-test2_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest-typed-test2_test.cc(33,10): fatal error C1083: Cannot open include file: 'test/gtest-typed-test_test.h': No such file or directory
+  gtest-typed-test_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest-typed-test_test.cc(31,10): fatal error C1083: Cannot open include file: 'test/gtest-typed-test_test.h': No such file or directory
+  gtest-unittest-api_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest-unittest-api_test.cc(35,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  Generating Code...
+  Compiling...
+  gtest_all_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_all_test.cc(35,10): fatal error C1083: Cannot open include file: 'test/googletest-filepath-test.cc': No such file or directory
+  gtest_assert_by_exception_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_assert_by_exception_test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_environment_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_environment_test.cc(35,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_help_test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_help_test_.cc(34,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_list_output_unittest_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_list_output_unittest_.cc(41,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_main_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_main_unittest.cc(31,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_no_test_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_no_test_unittest.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_pred_impl_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_pred_impl_unittest.cc(52,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_premature_exit_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_premature_exit_test.cc(36,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_prod_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\production.h(36,10): fatal error C1083: Cannot open include file: 'gtest/gtest_prod.h': No such file or directory
+  gtest_repeat_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_repeat_test.cc(35,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_skip_in_environment_setup_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_skip_in_environment_setup_test.cc(34,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_skip_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_skip_test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_sole_header_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_sole_header_test.cc(34,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_stress_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_stress_test.cc(34,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_testbridge_test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_testbridge_test_.cc(34,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_test_macro_stack_footprint_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_test_macro_stack_footprint_test.cc(38,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_throw_on_failure_ex_test.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_throw_on_failure_ex_test.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_unittest.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_unittest.cc(34,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_xml_outfile1_test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_xml_outfile1_test_.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  Generating Code...
+  Compiling...
+  gtest_xml_outfile2_test_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_xml_outfile2_test_.cc(33,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  gtest_xml_output_unittest_.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\gtest_xml_output_unittest_.cc(39,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  production.cc
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\lib\googletest\test\production.h(36,10): fatal error C1083: Cannot open include file: 'gtest/gtest_prod.h': No such file or directory
+  rational_test.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2_ultim\test\rational_test.cpp(5,10): fatal error C1083: Cannot open include file: 'gtest/gtest.h': No such file or directory
+  lab2VS.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\lab2VS\lab2VS\lab2VS\lab2VS.cpp(28,10): fatal error C1083: Cannot open include file: 'rational.h': No such file or directory
+  Generating Code...

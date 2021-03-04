@@ -1,0 +1,6 @@
+﻿  l5_4.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_4\l5_4.cpp(50,7): warning C4101: 's': unreferenced local variable
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_4\l5_4.cpp(49,7): warning C4101: 'c': unreferenced local variable
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_4\l5_4.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_4\l5_4.cpp(36): warning C4715: 'get_input': not all control paths return a value
+  l5_4.vcxproj -> D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l5root\l5_4\Debug\l5_4.exe

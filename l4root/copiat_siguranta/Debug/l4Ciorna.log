@@ -1,0 +1,16 @@
+﻿  MedikamentRepo.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(38,19): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(168,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\MedikamentRepo.cpp(191,21): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Laboratoare\l4root\copiat_siguranta\Debug\l4Ciorna.exe for writing

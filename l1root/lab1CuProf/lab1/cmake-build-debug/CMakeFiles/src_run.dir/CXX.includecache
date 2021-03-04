@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/calculator.h
+
+D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab1CuProf/lab1/main.cpp
+iostream
+-
+calculator.h
+D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab1CuProf/lab1/calculator.h
+

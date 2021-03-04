@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab2/main.cpp
+iostream
+-
+gtest/gtest.h
+D:/ionut/Info/Faculta/sem II/POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )/Laboratoare/lab2/gtest/gtest.h
+

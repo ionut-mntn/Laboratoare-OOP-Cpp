@@ -1,0 +1,8 @@
+project(src)
+set(HEADER_FILES divisibility.h)
+set(SOURCE_FILES divisibility.cpp)
+set(HEADER_FILES prime.h)
+set(SOURCE_FILES prime.cpp)
+set(HEADER_FILES sequences.h)
+set(SOURCE_FILES sequences.cpp)
+add_library(src STATIC ${SOURCE_FILES} ${HEADER_FILES})

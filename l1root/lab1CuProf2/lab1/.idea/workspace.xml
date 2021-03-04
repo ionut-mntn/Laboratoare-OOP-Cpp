@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab1" targetName="gmock_main" />
+      <config projectName="lab1" targetName="gtest_main" />
+      <config projectName="lab1" targetName="Google_Tests_run" />
+      <config projectName="lab1" targetName="src_run" />
+      <config projectName="lab1" targetName="src" />
+      <config projectName="lab1" targetName="gtest" />
+      <config projectName="lab1" targetName="gmock" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5c20fbe-a532-4419-a4cc-b9ded355ac4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YU60hR9vB50PMIo2VZnMPmTVCf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Google Test.All in calculator_test.cpp">
+    <configuration name="All in calculator_test.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab1" RUN_TARGET_NAME="Google_Tests_run" TEST_PATTERN="all-tests(file://$PROJECT_DIR$/test/calculator_test.cpp)" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Google_Tests_run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab1" RUN_TARGET_NAME="Google_Tests_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="gtest_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab1" RUN_TARGET_NAME="src_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="src" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src_run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="src_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab1" RUN_TARGET_NAME="src_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Google_Tests_run" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.src" />
+      <item itemvalue="CMake Application.src_run" />
+      <item itemvalue="Google Test.All in calculator_test.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.All in calculator_test.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5c20fbe-a532-4419-a4cc-b9ded355ac4e" name="Default Changelist" comment="" />
+      <created>1582984604648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582984604648</updated>
+      <workItem from="1582984606264" duration="857000" />
+      <workItem from="1583074781270" duration="479000" />
+      <workItem from="1583143926180" duration="1716000" />
+      <workItem from="1583146243897" duration="4855000" />
+      <workItem from="1583167968230" duration="1717000" />
+      <workItem from="1583422903627" duration="400000" />
+      <workItem from="1584055912816" duration="565000" />
+      <workItem from="1584093568224" duration="771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="919" y="150" key="#gtest_main" timestamp="1583145383128">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="919" y="150" key="#gtest_main/0.0.1600.860@0.0.1600.860" timestamp="1583145383128" />
+    <state x="919" y="150" key="#src" timestamp="1583151889856">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="919" y="150" key="#src/0.0.1600.860@0.0.1600.860" timestamp="1583151889856" />
+    <state x="980" y="184" key="FileChooserDialogImpl" timestamp="1583423302679">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="980" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583423302679" />
+    <state width="754" height="221" key="GridCell.Tab.0.bottom" timestamp="1584099085027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584099085027" />
+    <state width="754" height="221" key="GridCell.Tab.0.center" timestamp="1584099085027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584099085027" />
+    <state width="754" height="221" key="GridCell.Tab.0.left" timestamp="1584099085027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584099085027" />
+    <state width="754" height="221" key="GridCell.Tab.0.right" timestamp="1584099085027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584099085027" />
+    <state width="740" height="264" key="GridCell.Tab.1.bottom" timestamp="1583145692756">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="264" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583145692756" />
+    <state width="740" height="264" key="GridCell.Tab.1.center" timestamp="1583145692756">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="264" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583145692756" />
+    <state width="740" height="264" key="GridCell.Tab.1.left" timestamp="1583145692756">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="264" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583145692756" />
+    <state width="740" height="264" key="GridCell.Tab.1.right" timestamp="1583145692756">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="264" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583145692756" />
+    <state x="95" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583146324689">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="95" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583146324688" />
+    <state x="900" y="100" width="600" height="660" key="dock-window-1" timestamp="1583144714355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="900" y="100" width="600" height="660" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1583144714355" />
+  </component>
+</project>

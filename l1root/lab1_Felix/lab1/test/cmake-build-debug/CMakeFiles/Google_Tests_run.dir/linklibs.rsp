@@ -1,0 +1,1 @@
+ -LD:/ionut/Info/Faculta/SEMII~1/POO-PR~1/LABORA~1/LAB1_F~1/lab1/test/CMAKE-~1/lib -lsrc lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

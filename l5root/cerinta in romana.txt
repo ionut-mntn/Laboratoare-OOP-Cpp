@@ -1,0 +1,31 @@
+Atâtea filme, atât de puțin timp! Pentru a nu lipsi niciun film bun, este nevoie de o aplicație software 
+cu care să poată gestiona filme și liste de vizionare. Aplicația poate fi utilizată în două moduri: 
+administrator și utilizator. Când aplicația este pornită, oferă posibilitatea de a alege modul.
+
+Mod de administrare: aplicația stochează toate filmele dintr-o bază de date (repo).
+Aplicația permite administratorului să actualizeze baza de date. 
+Asta înseamnă: adăugați un nou film, ștergeți un film și editați informațiile unui film. 
+Fiecare film are un titlu, gen, anul lansării, numărul de like-uri și un trailer. 
+Trailer ul este salvat ca un link către o resursă online. 
+Administratorul are, de asemenea, opțiunea de a vizualiza toate filmele din baza de date.
+
+Modul utilizator: Un utilizator poate crea o listă de vizionare cu filmele pe care dorește să le 
+vizioneze. Aplicația permite utilizatorului să:
+
+1. Vizionarea filmelor din baza de date cu un gen specific. 
+Dacă genul este gol, toate filmele vor fi transmise pe ecran unul câte unul. 
+Dacă utilizatorul selectează această opțiune, datele primului film (titlu, gen, anul publicării, 
+numărul de like-uri) sunt afișate și trailerul este rulat în browser.
+
+2. Dacă utilizatorului îi place trailerul, acesta poate adăuga filmul la lista de vizionări.
+
+3. În cazul în care utilizatorul nu este mulțumit de trailer, poate trece la următoarea. 
+În acest caz, sunt afișate informațiile corespunzătoare filmului următor, iar utilizatorului i se oferă 
+opțiunea de a o adăuga pe lista de vizionare.
+Acest lucru poate continua atât timp cât utilizatorul dorește. 
+
+4. Ștergerea unui film din lista de vizionări (după ce utilizatorul a văzut filmul). Când ștergeți un film din
+lista de vizionări, utilizatorul poate, de asemenea, să evalueze filmul (cu un like). 
+În acest caz, numărul de like-uri ale filmului din depozit este crescut.
+
+5. Vizualizarea listei de vizionări.

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1584061709 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\main.cpp
+	<iostream>
+	"complex.h"
+	"complex_test.h"
+	"rational.h"
+
+1584016501 d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\complex.h
+	<cmath>
+	<iostream>
+
+1584060241 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\complex.cpp
+	"complex.h"
+
+1584060783 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\complex_test.cpp
+	"complex_test.h"
+	"Complex.h"
+
+1584059588 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\rational.cpp
+	"Rational.h"
+
+1584060204 d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\rational.h
+	<iostream>
+	<algorithm>
+
+1584060149 source:d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\rational_test.cpp
+	<cassert>
+	"Rational.h"
+
+1584057630 d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\complex_test.cpp
+	<assert.h>
+	"Complex.h"
+
+1584057502 d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\rational_test.cpp
+	<cassert>
+	"Rational.h"
+
+1584060757 d:\ionut\info\faculta\sem ii\poo - programare orientata pe obiect ( rusu catalin, manda iulian )\laboratoare\l2c\complex_test.h
+	<assert.h>
+
